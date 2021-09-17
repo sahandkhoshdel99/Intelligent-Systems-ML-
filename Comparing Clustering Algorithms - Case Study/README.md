@@ -2,7 +2,7 @@
 
 This project was our final project for the course. 
 
-As a group project, performing 8 clustering algorithms on 2 datasets, each originated from different distributions and data shapes, wouldn't have been accomplished without the efforts of my clever and creative colleagues: Narjes Noorzad and Hamidreza Ali Akbari Khoyi. 
+As a group project, performing 8 clustering algorithms on 2 datasets, each originated from different distributions and data shapes, wouldn't have been accomplished without the efforts of my clever and creative colleagues; Narjes Noorzad and Hamidreza Ali Akbari Khoyi. 
 
 Algorithms implemented in this project include:
 
