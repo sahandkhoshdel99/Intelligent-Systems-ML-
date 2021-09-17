@@ -26,4 +26,5 @@ For evaluation and comparison among these algorithms in our case study, we used 
 3. BIC/AIC score for GMM with sci-kit learn
 4. Reachability plot for OPTICS
 
-More details are accessible in both Clustering Report and Clustering Slides pdf files.
+More details are accessible in both Clustering Report and Clustering Slides pdf files located in the "Documents" directory
+
