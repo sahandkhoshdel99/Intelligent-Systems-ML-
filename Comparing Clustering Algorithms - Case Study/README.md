@@ -4,6 +4,7 @@ This project was our final project for the course.
 
 As a group project, performing 8 clustering algorithms on 2 datasets, each originated from different distributions and data shapes, wouldn't have been accomplished without the efforts of my clever and creative colleagues; Narjes Noorzad and Hamidreza Ali Akbari Khoyi. 
 
+
 Algorithms implemented in this project include:
 
 1. K-means Clustering 
@@ -15,8 +16,9 @@ Algorithms implemented in this project include:
 7. OPTICS‌ Clustering 
 8. Meanshift Clustering 
 
-The implementation of the algorithms are done both using scikit-learn and from scratch. (Except for OPTICS, Meanshift and K-means)
+The algorithms are implemented both using scikit-learn and from scratch. (Except for OPTICS, Meanshift and K-means)
 (K-means algorithm is implemented from scratch in HW#4, which is also uploaded in this repository.)
+
 
 
 For evaluation and comparison among these algorithms in our case study, we used several metrics including:
@@ -26,5 +28,10 @@ For evaluation and comparison among these algorithms in our case study, we used 
 3. BIC/AIC score for GMM with sci-kit learn
 4. Reachability plot for OPTICS
 
-More details are accessible in both Clustering Report and Clustering Slides pdf files located in the "Documents" directory
 
+
+Parameter Tuning was a very important part of this project. Tuning is basically the tool which can be used besides evaluation to leverage an algorithm's performance. 
+
+Comparisons can be drawn between the from-scratch group of algortihms and the scikit-learn ones as well by plotting a common evaluation metric for them on a barchart.
+
+More details are accessible in both Clustering Report and Clustering Slides pdf files located in the "Documents" directory
