@@ -1,4 +1,4 @@
-# Comparison and Evaluation of 8 Clustering Algorithms (implemented both from-scratch and using scikit-learn) on Toy and VOC-bboxes dataset:
+# Comparison and Evaluation of 8 Clustering Algorithms (implemented both from-scratch and using scikit-learn) on Toy Dataset & VOC-bboxes Dataset:
 
 This project was our final project for the course. 
 
